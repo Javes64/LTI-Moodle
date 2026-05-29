@@ -1,0 +1,14 @@
+{
+  "https://moodle.tu-darmstadt.de": [
+    {
+      "default": true,
+      "client_id": "1GimHfELEHuISWy",
+      "auth_login_url": "https://moodle.tu-darmstadt.de/mod/lti/auth.php",
+      "auth_token_url": "https://moodle.tu-darmstadt.de/mod/lti/token.php",
+      "key_set_url": "https://moodle.tu-darmstadt.de/mod/lti/certs.php",
+      "private_key_file": "private.key",
+      "public_key_file": "public.key",
+      "deployment_ids": ["11"]
+    }
+  ]
+}
